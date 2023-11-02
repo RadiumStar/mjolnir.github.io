@@ -1,6 +1,8 @@
 title: Mjolnir
 lang: en
 description: take you to the Asgard
+markdown: kramdown
+mathjax: true
 
 remote_theme: rundocs/jekyll-rtd-theme
 
