@@ -1,1 +1,1 @@
-# Mjolnir :hammer:
+# Mjolnir
