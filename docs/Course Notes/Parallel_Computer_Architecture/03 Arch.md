@@ -1,3 +1,7 @@
+---
+sort: 3
+---
+
 # 03 高性能计算机的体系结构
 ## 1. 超级计算机硬件
 1. 超级计算机系统的硬件组成 ![super_computer](gallery/super_computer.png) 由5个子系统组成
